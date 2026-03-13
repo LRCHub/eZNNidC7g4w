@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "前夜",
+  "base_artist": "4na",
+  "createdAt": "2026-03-13T14:18:53.568508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "前夜",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/01_前夜_4na.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "전야 (前夜) (The Eve)",
+      "artist": "엑소 (EXO)",
+      "has_synced": true,
+      "path": "select/02_전야_(前夜)_(The_Eve)_엑소_(EXO).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "前夜",
+      "artist": "石川智晶",
+      "has_synced": true,
+      "path": "select/03_前夜_石川智晶.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "2.前夜",
+      "artist": "レッドキャビア",
+      "has_synced": true,
+      "path": "select/04_2.前夜_レッドキャビア.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10_おまけ_ＪＫポリス密着２４時～前夜～",
+      "artist": "熊鈴",
+      "has_synced": true,
+      "path": "select/05_10_おまけ_JKポリス密着24時~前夜~_熊鈴.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "前夜",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/pl_01_前夜_4na.txt"
+    }
+  ]
+}
